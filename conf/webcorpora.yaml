@@ -1,0 +1,4 @@
+min_phrase_probability: 0.03
+results_for_phrase: 5
+google_delay: 10
+google_big_delay: 3600

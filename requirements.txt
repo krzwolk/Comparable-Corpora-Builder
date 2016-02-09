@@ -1,0 +1,7 @@
+google
+ipython
+readability-lxml
+html2text
+werkzeug
+pyyaml
+pymongo
